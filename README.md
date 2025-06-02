@@ -45,7 +45,7 @@ Installation
 Clone the repository:
 
 
-$ git clone https://github.com/fidelitous/Reader-writer-problem-with-password
+$ git clone https://github.com/MustafaKarakus1/-Reader-writer-problem-with-password-.git
 Navigate to the project directory:
 
 
