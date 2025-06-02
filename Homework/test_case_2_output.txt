@@ -1,0 +1,31 @@
+Thread_No  Hash_Value      Validity   Role       Value     
+5          0               dummy      reader     ACCESS DENIED
+7          0               dummy      reader     ACCESS DENIED
+8          0               dummy      writer     ACCESS DENIED
+9          0               dummy      reader     ACCESS DENIED
+10         0               dummy      writer     ACCESS DENIED
+1          137395037349568 real       reader     7365      
+3          137395054323392 real       reader     7365      
+2          137395045930688 real       reader     7365      
+4          137395062716096 real       writer     3947      
+6          137395113072320 real       writer     5123      
+1          137395037349568 real       reader     5123      
+4          137395062716096 real       writer     8484      
+3          137395054323392 real       reader     8484      
+2          137395045930688 real       reader     8484      
+6          137395113072320 real       writer     4919      
+3          137395054323392 real       reader     4919      
+6          137395113072320 real       writer     2678      
+1          137395037349568 real       reader     2678      
+4          137395062716096 real       writer     1045      
+2          137395045930688 real       reader     1045      
+3          137395054323392 real       reader     1045      
+6          137395113072320 real       writer     7273      
+2          137395045930688 real       reader     7273      
+1          137395037349568 real       reader     7273      
+4          137395062716096 real       writer     4422      
+3          137395054323392 real       reader     4422      
+6          137395113072320 real       writer     2424      
+2          137395045930688 real       reader     2424      
+1          137395037349568 real       reader     2424      
+4          137395062716096 real       writer     498       
